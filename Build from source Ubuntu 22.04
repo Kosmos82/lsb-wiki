@@ -2,7 +2,7 @@
 # Due to the needs of my server I needed to avoid scripts and python install methods.
 # I made a guide while I made it and figured I would share with others. This guide is based on the guides from Project Topaz/Darkstar.
 # This is not an install script simply a guide so please do not try to run it as such. 
-# This was done on Ubunutu 22.04 server edition but should work on any Debian based system
+# This was done on Ubuntu 22.04 server edition but should work on any Debian based system
 
 ## Install Land Sand Boat FFXI Server ##
 
